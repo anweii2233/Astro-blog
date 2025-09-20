@@ -1,0 +1,55 @@
+---
+layout: ../../layouts/postsLayout.astro
+title: "Information Networks and Blockchain"
+collection: 2025
+pubDate: 8/19
+slug: lonely-souls-redemption 
+description: Information Networks and Blockchain.
+---
+Information Networks and Blockchain.
+
+Maybe you've talked about it many times and been troubled by it: information. Maybe you've also heard the saying: monopolizing information is equivalent to holding power.
+
+When you're at a dead end, you often feel that if you could get more information, you would have more choices. When you see someone achieve something in a certain area, you often sigh, "I didn't know you could do that." Many people are troubled by being confined to information barriers, and our progress is often accompanied by the breakthrough of more information barriers, the accumulation of information, and the iteration of knowledge. At the same time, in this era of information explosion, obtaining information has become extremely convenient, with countless bytes being generated, jumping, and disappearing on the internet every day. It has always been full of this virtual world, until you meet. "When you come to see this flower, the flower in your heart becomes silent with you; when you come to see this flower, the color of this flower becomes clear at once, and you know that this flower is not outside your heart."
+
+Even every day, you have to be troubled by distinguishing true and false information. In the era of algorithms, we also need to be vigilant about which information is deliberately arranged to serve a certain ideology and which information is deliberately hidden. Under those montage and Spring and Autumn methods, some truths are discovered. Information, as a tool, has developed different effects in different systems.
+
+Yuval Noah Harari introduces the development history of information networks and his outlook and warnings on the future of AI in his new book "Nexus." The subtitle of the book is "A brief history of information networks from the stone age to AI."
+
+In the Stone Age, what made humans gradually stand out from other species and gain a dominant position was their unique ability to tell stories, which could create an imaginary community concept out of nothing, such as money, states, and religions. The evolution of currency from the initial shells, silver and gold coins to paper money is just such a consensus evolution. People define something as currency, and then they can start trading; people pass down a myth story by word of mouth, and they believe in a god who can do anything, and a tribe gradually forms. This ability to tell stories has gradually expanded the scale of human life and territory. Due to this information connection, the scale of trust between strangers has grown, and as long as someone calls God my Lord, everyone becomes a brother.
+
+There is a view that if a piece of information does not reveal the truth, then with more information, it will inevitably approach the reality represented by the reality infinitely. Harari refutes this with examples, such as the witch hunt in medieval Europe. In the Middle Ages, when someone started rumors that witches were the embodiment of the devil, they had signed a contract with Satan, they would abduct children at night, and they would cut off the male genitals. Before the invention of the printing press, such terrifying stories, when spread within a small range, did not cause much impact. After people could spread information through the printing press, someone wrote a manual on the operation of witch hunting, which detailed the terrifying stories of witches and the steps of witch hunting. The fear and panic of witches and witches swept across Europe, and with the support of the Inquisition, the society began a mass witch hunt. Some heretics and pagans were judged as witches and burned, and many innocent civilians were also labeled and brutally killed. In the Qing Dynasty of China, there was also a great panic caused by the magic of calling souls. In these crazy social movements, information did not bring more truth and reality; even after the invention of the printing press, more information dissemination brought more madness and distortion.
+
+If more information does not necessarily bring truth, where does it point? Order.
+
+After the invention of religion, the oracles passed down by everyone would inevitably be distorted and depleted in the process of transmission. Information needs a carrier, and people write it into files, which is the second way people process information. The revision and compilation of the Bible have undergone several iterations, and everyone may have different understandings of the Bible entries. How should one act to conform to God's teachings? The clergy, led by the Pope, has gained the ultimate interpretation authority of the Bible and the power to rule the faithful in the process. Because of the divergence of interpretation, even the Crusades, a large-scale military action, broke out. The same track, the same writing, all aimed to create an order.
+
+At the same time, information gradually flowed into institutions and government-led bureaucratic systems. After creating order, the government began to collect and organize a large amount of information, such as establishing a sound tax system. How much tax a household should pay, how many people there are, etc., all eventually ended up in a crowded filing cabinet in the bureaucratic system. And a person's social existence was gradually regulated by such documents. If it is not recorded, it becomes a black household. For example, during the two world wars, Jews were subjected to catastrophic disasters, and the survivors who wandered from place to place often ended up being arrested or returned due to the inability to provide a document proving their identity.
+
+The emergence of telegrams and broadcasting as instant communication tools made mass democracy possible.
+
+Before the emergence of instant communication tools, people who were too far apart could not discuss and exchange on a public matter at the same time. Under the restriction of technology, the low level of public participation naturally could not produce mass democracy, and now people can express their views on a matter at the same time on the internet.
+
+However, different systems have different countermeasures for information dissemination. In a democratic system, there are many different channels for information flow, blooming in all directions. In a dictatorship, the transmission channels between the ruling and ruled classes are few, and the degree of centralization is high. An excessive amount of information goes through a single channel and undergoes multiple levels of censorship. For example, when the Chernobyl disaster occurred, a large amount of information was suppressed, and people outside did not know what was happening inside. Information opacity led to massive leaks and caused the deaths of thousands of people and lifelong suffering from nuclear radiation. In a democratic system, even if the government tries to conceal information, there will be many independent media reports, and the events will be quickly spread to decision-makers and stakeholders.
+
+Web1.0, Web2.0, Web3.0
+
+Information networks entered the Web1.0 era, and many portal sites began to collect a large amount of information and display it on their homepage to attract users to browse, such as Yahoo and Sohu. Users could obtain news information from all over the world through integrated, information-centered websites, and the content publishers were mostly commercial entities. They earned advertising fees by obtaining users' click-through rates and page views.
+
+In the Web2.0 era, users became content creators, and all the social platforms we use today are the products of the Web2.0 era. The interactivity of users is stronger, and the generation and dissemination of information are initiated by users, such as TikTok and the article you are reading, which was written through the WeChat Public Platform. The internet era, known as the information explosion, was created by Web2.0. Intelligent algorithms have undergone a lot of mechanical learning under the feeding of big data and have now become the operating strategy of many application software.
+
+Especially with ChatGPT at the forefront, artificial intelligence has subverted the previous way of information processing. In the past, no matter what form the carrier was, whether it was a file, a telegram, a broadcast, etc., these carriers themselves would not make decisions, and the final decision-making power was still in the hands of humans. The emergence of AI algorithms is the first time in history that non-humans can make autonomous decisions in the process of information dissemination and processing, and the latest ChatGPT can even surpass the level of most people in various fields.
+
+Facebook and YouTube use their own algorithms to analyze user habits and push content accurately to maximize user engagement time. The author points out that due to the goal-oriented nature of algorithms, the goal is often to make user engagement time longer, and even to push content such as violence and racial discrimination, which directly triggered the racial separatist movement in Myanmar. Under the design of Meituan programmers, delivery workers trapped in algorithms.
+
+How different national systems respond to the challenges of AI is a factor in the future social differentiation.
+
+AI poses a huge challenge to democracy, as it can help dictatorships better control society. Through more precise cameras, monitors, and even brain chips being developed, a world like 1984 can be formed, where everyone will have no privacy.
+
+This great temptation can only be counterbalanced by a sound system.
+
+Web3.0
+
+Web3.0 is a decentralized network based on blockchain technology, where information flows and is stored on every network node. This is also one of the great designs of Bitcoin, which subverted the traditional centralized financial system. There is no longer a need for a centralized third-party institution to store and review everyone's transaction behavior. On the blockchain, everyone has a historical ledger and can verify every transaction. It's like confessing your love to someone you like in a square, surrounded by everyone, shouting "I love you" and getting the other person's consent. After everyone hears and sees it, everyone believes that you are a couple, and you don't need to find a third-party institution to certify that you are a couple. If everyone agrees that you can only be a couple after getting certified by an institution, then all the power will be concentrated in that institution.
+
+Decentralized networks are undoubtedly a good way to strengthen democracy, and even an ideal form. Information is freely transmitted and distributed on the running nodes, which is the best counterattack against all censorship.
