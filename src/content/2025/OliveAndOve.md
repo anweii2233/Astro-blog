@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/postsLayout.astro
 title: "孤独者的救赎：从《电影名叫乌韦的男人》到《奥利芙·基特里奇》"
-collection: 2023
+collection: 2025
 pubDate: 8/10
 slug: olive-and-ove
 description: 关于孤独、救赎与人性温度的文学与电影对话
